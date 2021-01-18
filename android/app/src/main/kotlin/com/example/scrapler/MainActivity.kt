@@ -1,4 +1,4 @@
-package com.example.scrapler
+package com.touchcode.scrapler
 
 import io.flutter.embedding.android.FlutterActivity
 
